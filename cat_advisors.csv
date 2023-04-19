@@ -8,7 +8,7 @@ ALBERT,e39bd36b-b0f0-4c69-a7b2-3a89409682e3,ALBERTO BUENROSTRO PARDO,Iztapalapa 
 ALCAN,008b53fe-44ec-480b-abba-9b77c0527f30,ADRIANA ALCANTAR,Nezahualcoyotl,1
 ALFRED,4cf35ef1-08d3-4f4e-9ebc-bd422a1fb5d5,Alejandro Alfredo Rodriguez Gonzalez,Puebla,0
 ALUNA,Desconocido,Adriana Luna,Gerencia,0
-ALVARE,Desconocido,,,0
+ALVARE,Desconocido,Alejandro Alvarez Sanchez,Cobranza,1
 AMADOC,0d711fdb-d90d-4daf-89c2-bf097362236c,CARLA IVET AMADO,Iztapalapa 1,1
 ANAYEL,Desconocido,Anayeli Rangel Medina,Texcoco,1
 ANZUET,Desconocido,Erick Anzueta Juárez,Central de Abastos,0
@@ -17,7 +17,7 @@ ARMANC,14c33ac3-8427-4575-8950-7fbbfd01f79e,ARMANDO CHAVEZ,Texcoco,1
 BDIAZ,f1f57bea-3518-49a6-9408-374e138e4eae,Brian Diaz,Central de Abastos,0
 BENITEZ,b2027524-37ee-4219-8c99-ba48c8f9ae43,Ma. Carmen  Benitez,Texcoco,0
 BOYSON,0245c5ca-4501-4000-b84b-8c6bee96ac34,Andres Medina Boyson,Iztapalapa 1,0
-CAMACHO,Desconocido,Ricardo Camacho,Cobranza,0
+CAMACHO,Desconocido,Ricardo Camacho,Cobranza,1
 CAMPERO,53c4d545-1921-4233-b216-a4eb1c4edbaf,Miguel Angel Campero,Cuautitlan,1
 CARMENP,ea5e419e-403d-497d-89f3-3d70a60e3505,MARIA DEL CARMEN PEREA,Texcoco,1
 CARMONA,e39bd36b-b0f0-4c69-a7b2-3a89409682e3,Jose Luis Carmona,Iztapalapa 1,1
@@ -45,7 +45,7 @@ HUITRON,e1b70845-69b0-48f0-9514-2d3f1100cc47,JAVIER HUITRÓN,Iztapalapa 1,1
 HURIBE,Desconocido,,,0
 JAIRO,Desconocido,Jairo Motalban Gonzalez,Cobranza,0
 JEHU,Desconocido,Jehu,Jehu,0
-JOSELU,3f913c02-1c1b-47a7-90fe-cfcb2eddd671,Jose Luis Rodriguez Garcia,Cobranza,0
+JOSELU,3f913c02-1c1b-47a7-90fe-cfcb2eddd671,Jose Luis Rodriguez Garcia,Cobranza,1
 KARLAP,93a84907-3103-40ec-b54e-1dda166bf595,Karla Yazmin Pacheco Ramos,Puebla,0
 LBENI,2ac5c919-0a93-472c-85e0-089b57b0103c,Luis Benitez,Central de Abastos,0
 LOBATO,Desconocido,Ricardo Lobato,Nezahualcoyotl,1
@@ -62,4 +62,6 @@ RAMSES,Desconocido,Ramses,,1
 RUBENS,656f6520-eeaa-41b4-80f4-78c1f6544dda,RUBEN SANCHEZ BAUTISTA,Puebla,0
 SELENE,06914334-8cb5-482f-8824-5fd819a0cc86,JOSELYN VILLEGAS,Nezahualcoyotl,0
 TERESA,0e44d227-9cb2-4b96-81a7-8fd684cf4792,MA. TERESA TORRES,Nezahualcoyotl,1
+PERALTA,Desconocido,Andres Peralta Peralta,Cobranza,0
+ILSEJIM,Desconocido,Ilse Jimenez Perez,Nezahualcoyotl,0
 ZREYES,Desconocido,Zyanya Reyes Cruz,Central de Abastos,1
