@@ -1,67 +1,67 @@
-agent,sales_advisor_id,Nombre,Zone,Baja
-ABALAN,Desconocido,Andrés Balandran,Cobranza,0
-ACEDI,Desconocido,,,0
-AGARCIA,53c4d545-1921-4233-b216-a4eb1c4edbaf,ALVARO GARCIA,Cuautitlan,0
-AGONZA,2bb4e0ba-215d-49e5-b33f-84668e6788ac,ANGEL GONZALEZ,Cuautitlan,1
-ALANRO,Desconocido,,,0
-ALBERT,e39bd36b-b0f0-4c69-a7b2-3a89409682e3,ALBERTO BUENROSTRO PARDO,Iztapalapa 1,0
-ALCAN,008b53fe-44ec-480b-abba-9b77c0527f30,ADRIANA ALCANTAR,Nezahualcoyotl,1
-ALFRED,4cf35ef1-08d3-4f4e-9ebc-bd422a1fb5d5,Alejandro Alfredo Rodriguez Gonzalez,Puebla,0
-ALUNA,Desconocido,Adriana Luna,Gerencia,0
-ALVARE,Desconocido,Alejandro Alvarez Sanchez,Cobranza,1
-AMADOC,0d711fdb-d90d-4daf-89c2-bf097362236c,CARLA IVET AMADO,Iztapalapa 1,1
-ANAYEL,Desconocido,Anayeli Rangel Medina,Texcoco,1
-ANZUET,Desconocido,Erick Anzueta Juárez,Central de Abastos,0
-AREYES,da91912d-18e6-4544-99e9-048f8a983f7c,Agustin Reyes Ramirez,Texcoco,0
-ARMANC,14c33ac3-8427-4575-8950-7fbbfd01f79e,ARMANDO CHAVEZ,Texcoco,1
-BDIAZ,f1f57bea-3518-49a6-9408-374e138e4eae,Brian Diaz,Central de Abastos,0
-BENITEZ,b2027524-37ee-4219-8c99-ba48c8f9ae43,Ma. Carmen  Benitez,Texcoco,0
-BOYSON,0245c5ca-4501-4000-b84b-8c6bee96ac34,Andres Medina Boyson,Iztapalapa 1,0
-CAMACHO,Desconocido,Ricardo Camacho,Cobranza,1
-CAMPERO,53c4d545-1921-4233-b216-a4eb1c4edbaf,Miguel Angel Campero,Cuautitlan,1
-CARMENP,ea5e419e-403d-497d-89f3-3d70a60e3505,MARIA DEL CARMEN PEREA,Texcoco,1
-CARMONA,e39bd36b-b0f0-4c69-a7b2-3a89409682e3,Jose Luis Carmona,Iztapalapa 1,1
-CAROLI,66e03512-9fcb-4f4d-bffe-9b4b2981cf97,Carolina Lopez Gonzalez,Puebla,0
-CESPIN,764715d2-b0c9-44b2-a6b4-218eba3bd037,CHRISTIAN ESPINOSA,Texcoco,0
-CGUERRE,Desconocido,Cristofer Guerrero,Cobranza,1
-CMATA,8f326d0e-e2a5-41a2-a9ec-bbdc4d8ec9f0,CARLOS E MATA,Quebranto,0
-CRISTI,Desconocido,,,0
-CRISX,Desconocido,Cristian Ivan Xolalpa Luna,Central de Abastos,1
-DANCRI,Desconocido,,,0
-DMATA,dd436cd1-6ecd-466c-949e-befbb7ed72ee,DAMIAN MATA,Cuautitlan,0
-DSIMON,da91912d-18e6-4544-99e9-048f8a983f7c,DIANA SIMON,Texcoco,1
-EBELLO,6be2c230-7c91-4c06-a8a9-bfee10d93166,EDUARDO BELLO,Nezahualcoyotl,0
-EDGAR,Desconocido,,,0
-ELIZAB,3a74c668-1da8-4ad7-8be9-f3b6f5033864,ELIZABETH GUADALUPE FLORES ZARATE,Iztapalapa 1,1
-ESANCHE,Desconocido,Erick jovani Sánchez ortiz,Texcoco,0
-FEROD,702d9206-9017-4bd2-b0c6-2f600facec20,FERNANDO RODRIGUEZ,Cuautitlan,0
-FIDELH,Desconocido,Fidel Hernández,Cobranza,0
-FLORES,Desconocido,David Antonio Flores Aceves,Cobranza,0
-FRANCIS,0f962b1e-64d0-453d-ba4e-419e396319c1,FRANCISCO JAVIER LEDESMA,Iztapalapa 1,1
-GCRUZ,008b53fe-44ec-480b-abba-9b77c0527f30 ,Gerardo Cruz Herrera,Nezahualcoyotl,0
-GMATEO,2b1cfd83-583b-440b-a8ae-634ec2220cb5,Giovanny Mateos,Evaluación Virtual,0
-HECBAL,58b19478-bd67-4ebd-99e2-0feb55f2e814,HECTOR JAVIER BALIÑO SANCHEZ,Cuautitlan,0
-HUITRON,e1b70845-69b0-48f0-9514-2d3f1100cc47,JAVIER HUITRÓN,Iztapalapa 1,1
-HURIBE,Desconocido,,,0
-JAIRO,Desconocido,Jairo Motalban Gonzalez,Cobranza,0
-JEHU,Desconocido,Jehu,Jehu,0
-JOSELU,3f913c02-1c1b-47a7-90fe-cfcb2eddd671,Jose Luis Rodriguez Garcia,Cobranza,1
-KARLAP,93a84907-3103-40ec-b54e-1dda166bf595,Karla Yazmin Pacheco Ramos,Puebla,0
-LBENI,2ac5c919-0a93-472c-85e0-089b57b0103c,Luis Benitez,Central de Abastos,0
-LOBATO,Desconocido,Ricardo Lobato,Nezahualcoyotl,1
-LUISLU,e1b70845-69b0-48f0-9514-2d3f1100cc47,Luis Alfredo Luna Campos,Iztapalapa 1,0
-MAGDIE,f052c282-7f07-4e4f-83e4-adaa42277455,Josué Magdiel Martínez Valderrábano,Puebla,0
-MIGUEA,Desconocido,Miguel Lillos de la Cruz,Nezahualcoyotl,0
-MMARTE,Desconocido,Marisol Martell,Iztapalapa 1,1
-MONIS,431c346b-45f5-43a2-8d9a-10b5e40a0de5,Monica Ruiz,Nezahualcoyotl,0
-MONTIE,Desconocido,Abraham Montiel Rosales,Central de Abastos,0
-NAJERA,Desconocido,Daniela Najera Arteaga,Iztapalapa 1,0
-NEFTAV,e3a47bd1-f5ab-4b5e-b61b-110b5bd5dec7,NEFTALI JOSE,Iztapalapa 1,1
-RAMIREZ,f51f6220-fe47-49bd-b8bc-64589c163249,RUBEN RAMIREZ,Texcoco,0
-RAMSES,Desconocido,Ramses,,1
-RUBENS,656f6520-eeaa-41b4-80f4-78c1f6544dda,RUBEN SANCHEZ BAUTISTA,Puebla,0
-SELENE,06914334-8cb5-482f-8824-5fd819a0cc86,JOSELYN VILLEGAS,Nezahualcoyotl,0
-TERESA,0e44d227-9cb2-4b96-81a7-8fd684cf4792,MA. TERESA TORRES,Nezahualcoyotl,1
-PERALTA,Desconocido,Andres Peralta Peralta,Cobranza,0
-ILSEJIM,Desconocido,Ilse Jimenez Perez,Nezahualcoyotl,0
-ZREYES,Desconocido,Zyanya Reyes Cruz,Central de Abastos,1
+agent,sales_advisor_id,Nombre,Zone,Baja,Meta diaria
+ABALAN,Desconocido,Andrés Balandran,Cobranza,0,10
+ACEDI,Desconocido,,,0,10
+AGARCIA,53c4d545-1921-4233-b216-a4eb1c4edbaf,ALVARO GARCIA,Cuautitlan,0,10
+AGONZA,2bb4e0ba-215d-49e5-b33f-84668e6788ac,ANGEL GONZALEZ,Cuautitlan,1,10
+ALANRO,Desconocido,,,0,10
+ALBERT,e39bd36b-b0f0-4c69-a7b2-3a89409682e3,ALBERTO BUENROSTRO PARDO,Iztapalapa 1,0,10
+ALCAN,008b53fe-44ec-480b-abba-9b77c0527f30,ADRIANA ALCANTAR,Nezahualcoyotl,1,10
+ALFRED,4cf35ef1-08d3-4f4e-9ebc-bd422a1fb5d5,Alejandro Alfredo Rodriguez Gonzalez,Puebla,0,10
+ALUNA,Desconocido,Adriana Luna,Gerencia,0,10
+ALVARE,Desconocido,Alejandro Alvarez Sanchez,Cobranza,1,10
+AMADOC,0d711fdb-d90d-4daf-89c2-bf097362236c,CARLA IVET AMADO,Iztapalapa 1,1,10
+ANAYEL,Desconocido,Anayeli Rangel Medina,Texcoco,1,10
+ANZUET,Desconocido,Erick Anzueta Juárez,Central de Abastos,0,10
+AREYES,da91912d-18e6-4544-99e9-048f8a983f7c,Agustin Reyes Ramirez,Texcoco,0,10
+ARMANC,14c33ac3-8427-4575-8950-7fbbfd01f79e,ARMANDO CHAVEZ,Texcoco,1,10
+BDIAZ,f1f57bea-3518-49a6-9408-374e138e4eae,Brian Diaz,Central de Abastos,0,10
+BENITEZ,b2027524-37ee-4219-8c99-ba48c8f9ae43,Ma. Carmen  Benitez,Texcoco,0,10
+BOYSON,0245c5ca-4501-4000-b84b-8c6bee96ac34,Andres Medina Boyson,Iztapalapa 1,0,10
+CAMACHO,Desconocido,Ricardo Camacho,Cobranza,1,10
+CAMPERO,53c4d545-1921-4233-b216-a4eb1c4edbaf,Miguel Angel Campero,Cuautitlan,1,10
+CARMENP,ea5e419e-403d-497d-89f3-3d70a60e3505,MARIA DEL CARMEN PEREA,Texcoco,1,10
+CARMONA,e39bd36b-b0f0-4c69-a7b2-3a89409682e3,Jose Luis Carmona,Iztapalapa 1,1,10
+CAROLI,66e03512-9fcb-4f4d-bffe-9b4b2981cf97,Carolina Lopez Gonzalez,Puebla,0,10
+CESPIN,764715d2-b0c9-44b2-a6b4-218eba3bd037,CHRISTIAN ESPINOSA,Texcoco,0,10
+CGUERRE,Desconocido,Cristofer Guerrero,Cobranza,1,10
+CMATA,8f326d0e-e2a5-41a2-a9ec-bbdc4d8ec9f0,CARLOS E MATA,Quebranto,0,10
+CRISTI,Desconocido,,,0,10
+CRISX,Desconocido,Cristian Ivan Xolalpa Luna,Central de Abastos,1,10
+DANCRI,Desconocido,,,0,10
+DMATA,dd436cd1-6ecd-466c-949e-befbb7ed72ee,DAMIAN MATA,Cuautitlan,0,10
+DSIMON,da91912d-18e6-4544-99e9-048f8a983f7c,DIANA SIMON,Texcoco,1,10
+EBELLO,6be2c230-7c91-4c06-a8a9-bfee10d93166,EDUARDO BELLO,Nezahualcoyotl,0,10
+EDGAR,Desconocido,,,0,10
+ELIZAB,3a74c668-1da8-4ad7-8be9-f3b6f5033864,ELIZABETH GUADALUPE FLORES ZARATE,Iztapalapa 1,1,10
+ESANCHE,Desconocido,Erick jovani Sánchez ortiz,Texcoco,0,10
+FEROD,702d9206-9017-4bd2-b0c6-2f600facec20,FERNANDO RODRIGUEZ,Cuautitlan,0,10
+FIDELH,Desconocido,Fidel Hernández,Cobranza,0,10
+FLORES,Desconocido,David Antonio Flores Aceves,Cobranza,0,10
+FRANCIS,0f962b1e-64d0-453d-ba4e-419e396319c1,FRANCISCO JAVIER LEDESMA,Iztapalapa 1,1,10
+GCRUZ,008b53fe-44ec-480b-abba-9b77c0527f30 ,Gerardo Cruz Herrera,Nezahualcoyotl,0,10
+GMATEO,2b1cfd83-583b-440b-a8ae-634ec2220cb5,Giovanny Mateos,Evaluación Virtual,0,10
+HECBAL,58b19478-bd67-4ebd-99e2-0feb55f2e814,HECTOR JAVIER BALIÑO SANCHEZ,Cuautitlan,0,10
+HUITRON,e1b70845-69b0-48f0-9514-2d3f1100cc47,JAVIER HUITRÓN,Iztapalapa 1,1,10
+HURIBE,Desconocido,,,0,10
+JAIRO,Desconocido,Jairo Motalban Gonzalez,Cobranza,0,10
+JEHU,Desconocido,Jehu,Jehu,0,10
+JOSELU,3f913c02-1c1b-47a7-90fe-cfcb2eddd671,Jose Luis Rodriguez Garcia,Cobranza,1,10
+KARLAP,93a84907-3103-40ec-b54e-1dda166bf595,Karla Yazmin Pacheco Ramos,Puebla,0,10
+LBENI,2ac5c919-0a93-472c-85e0-089b57b0103c,Luis Benitez,Central de Abastos,0,10
+LOBATO,Desconocido,Ricardo Lobato,Nezahualcoyotl,1,10
+LUISLU,e1b70845-69b0-48f0-9514-2d3f1100cc47,Luis Alfredo Luna Campos,Iztapalapa 1,0,10
+MAGDIE,f052c282-7f07-4e4f-83e4-adaa42277455,Josué Magdiel Martínez Valderrábano,Puebla,0,10
+MIGUEA,Desconocido,Miguel Lillos de la Cruz,Nezahualcoyotl,0,10
+MMARTE,Desconocido,Marisol Martell,Iztapalapa 1,1,10
+MONIS,431c346b-45f5-43a2-8d9a-10b5e40a0de5,Monica Ruiz,Nezahualcoyotl,0,10
+MONTIE,Desconocido,Abraham Montiel Rosales,Central de Abastos,0,10
+NAJERA,Desconocido,Daniela Najera Arteaga,Iztapalapa 1,0,10
+NEFTAV,e3a47bd1-f5ab-4b5e-b61b-110b5bd5dec7,NEFTALI JOSE,Iztapalapa 1,1,10
+RAMIREZ,f51f6220-fe47-49bd-b8bc-64589c163249,RUBEN RAMIREZ,Texcoco,0,10
+RAMSES,Desconocido,Ramses,,1,10
+RUBENS,656f6520-eeaa-41b4-80f4-78c1f6544dda,RUBEN SANCHEZ BAUTISTA,Puebla,0,10
+SELENE,06914334-8cb5-482f-8824-5fd819a0cc86,JOSELYN VILLEGAS,Nezahualcoyotl,0,10
+TERESA,0e44d227-9cb2-4b96-81a7-8fd684cf4792,MA. TERESA TORRES,Nezahualcoyotl,1,10
+PERALTA,Desconocido,Andres Peralta Peralta,Cobranza,0,10
+ILSEJIM,Desconocido,Ilse Jimenez Perez,Nezahualcoyotl,0,10
+ZREYES,Desconocido,Zyanya Reyes Cruz,Central de Abastos,1,10
