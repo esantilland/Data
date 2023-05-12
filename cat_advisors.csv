@@ -1,10 +1,10 @@
 agent,sales_advisor_id,Nombre,Zone,Baja,Meta diaria
-ABALAN,Desconocido,Andrés Balandran,Cobranza,0,10
+ABALAN,Desconocido,Andrés Balandran,Cobranza,1,10
 ACEDI,Desconocido,,,0,10
 AGARCIA,53c4d545-1921-4233-b216-a4eb1c4edbaf,ALVARO GARCIA,Cuautitlan,0,10
 AGONZA,2bb4e0ba-215d-49e5-b33f-84668e6788ac,ANGEL GONZALEZ,Cuautitlan,1,10
 ALANRO,Desconocido,,,0,10
-ALBERT,e39bd36b-b0f0-4c69-a7b2-3a89409682e3,ALBERTO BUENROSTRO PARDO,Iztapalapa 1,0,10
+ALBERT,e39bd36b-b0f0-4c69-a7b2-3a89409682e3,ALBERTO BUENROSTRO PARDO,Cobranza,0,10
 ALCAN,008b53fe-44ec-480b-abba-9b77c0527f30,ADRIANA ALCANTAR,Nezahualcoyotl,1,10
 ALFRED,4cf35ef1-08d3-4f4e-9ebc-bd422a1fb5d5,Alejandro Alfredo Rodriguez Gonzalez,Puebla,0,10
 ALUNA,Desconocido,Adriana Luna,Gerencia,0,10
@@ -66,3 +66,5 @@ PERALTA,Desconocido,Andres Peralta Peralta,Cobranza,0,10
 ILSEJIM,Desconocido,Ilse Jimenez Perez,Nezahualcoyotl,0,10
 ZREYES,Desconocido,Zyanya Reyes Cruz,Central de Abastos,1,10
 MFLORE,Desconocido,Mauricio Flores Beltran,Cobranza,0,10
+MNOLAS,Desconocido,Misael Nolasco Espejo,Cuautitlan,0,10
+NCASTI,Desconocido,Natanael Castillo Ramos,Iztapalapa 1,0,10
